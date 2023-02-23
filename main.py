@@ -1,1 +1,2 @@
-print("Hello World, I am The World")
+print("Hello World, I'm The World But he is Planets")
+print("Ayxan Mikrofonu Sondur")
